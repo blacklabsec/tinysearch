@@ -12,7 +12,7 @@ A command-line tool that uses the [Google Programmable Search API](https://devel
 
 ## Installation
 ```
-go install -v github.com/blacklabsec/tinysearch@latest
+go install -v github.com/blacklabsec/tinysearch@1.0.1
 ```
 
 or
